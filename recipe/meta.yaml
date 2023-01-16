@@ -1,5 +1,5 @@
 {% set name = "serapeum_utils" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Serapieum-of-alex/serapeum_utils/archive/{{ version }}.tar.gz
-  sha256: 657d84d21ffaba7d785d39ab296d7130618c9179d6db5bed831a3728ca379403
+  sha256: e8621a8352142cf43a112c54f8184a273d1f226fa13321f7582c312c7e14100e
 
 build:
   number: 0
