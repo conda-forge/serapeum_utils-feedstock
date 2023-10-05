@@ -1,11 +1,11 @@
-About serapeum_utils
-====================
+About serapeum_utils-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/serapeum_utils-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Serapieum-of-alex/serapeum_utils
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/serapeum_utils-feedstock/blob/main/LICENSE.txt)
 
 Summary: decorators for handling function with too many parameters
 
