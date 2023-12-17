@@ -1,5 +1,5 @@
 {% set name = "serapeum_utils" %}
-{% set version = "0.1.1" %}
+{% set version = "0.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Serapieum-of-alex/serapeum_utils/archive/{{ version }}.tar.gz
-  sha256: e8621a8352142cf43a112c54f8184a273d1f226fa13321f7582c312c7e14100e
+  sha256: 38d70727caa64613cd46d08407c9ae09733b1847c37c395af1ecce61574981f0
 
 build:
   number: 0
@@ -16,11 +16,11 @@ build:
 
 requirements:
   host:
-    - python >=3.9,<3.11
+    - python >=3.11
     - pip
     - poetry-core >=1.0.0
   run:
-    - python >=3.9,<3.11
+    - python >=3.11
 
 test:
   imports:
