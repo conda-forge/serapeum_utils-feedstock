@@ -32,7 +32,7 @@ test:
 
 about:
   home: https://github.com/Serapieum-of-alex/serapeum_utils
-  license:  GPL-3.0-only
+  license: GPL-3.0-only
   license_family: GPL
   license_file: LICENSE.md
   summary: decorators for handling function with too many parameters
